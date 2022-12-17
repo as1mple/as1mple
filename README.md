@@ -1,4 +1,4 @@
-## PΣTR PΣTRUK
+## [PΣTR PΣTRUK](https://www.linkedin.com/in/petr-petruk)
 
 - 👋 Hi, I’m PΣTR
 - 👀 I’m interested in ML & DL & NLP
