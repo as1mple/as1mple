@@ -3,12 +3,6 @@
 - 👋 Hi, I’m PΣTR
 - 👀 I’m interested in ML & DL & NLP
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fas1mple)](https://hits.seeyoufarm.com)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/asimple)](https://www.kaggle.com/asimple)
-
-![Subin's github stats](https://github-readme-stats.vercel.app/api?username=as1mple&show_icons=true&hide_border=true)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/asimple/notebook)](https://www.kaggle.com/asimple)
-
 **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
