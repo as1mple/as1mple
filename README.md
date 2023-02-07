@@ -3,6 +3,14 @@
 - 👋 Hi, I’m PΣTR
 - 👀 I’m interested in ML & DL & NLP
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fas1mple)](https://hits.seeyoufarm.com)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/asimple)](https://www.kaggle.com/asimple)
+
+
+![](https://github-readme-stats.vercel.app/api?username=as1mple&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as1mple&theme=nightowl&layout=compact)
+
+
 **Languages and Tools:** 
 
 <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> <img height="35">
