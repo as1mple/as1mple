@@ -1,16 +1,17 @@
 ## [PΣTR PΣTRUK](https://www.linkedin.com/in/petr-petruk)
 
-- 👋 Hi, I’m PΣTR
-- 👀 I’m interested in ML & DL & NLP
+- 👋 Hi, I’m a [Kaggle Master,](https://www.kaggle.com/asimple)
+- 👀 I’m interested in ML & DL & NLP.
+- 🛠️ I'm constantly learning and improving my skills.
+- 💪 I'm always ready to take on new tasks and learn something new.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fas1mple)](https://hits.seeyoufarm.com)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/asimple)](https://www.kaggle.com/asimple)
+_ _ _
+<p align="center"><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=as1mple&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="as1mple" align="center"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=as1mple&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="as1mple" align="center"/></p>
+  
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user='as1mple'&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="as1mple" /></p>
 
-
-![](https://github-readme-stats.vercel.app/api?username=as1mple&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as1mple&theme=nightowl&layout=compact)
-
-
+_ _ _
 **Languages and Tools:** 
 
 <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> <img height="35">
