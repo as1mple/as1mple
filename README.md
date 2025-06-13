@@ -1,5 +1,3 @@
-## [PΣTR PΣTRUK](https://www.linkedin.com/in/petr-petruk)
-
 - 👋 Hi, I’m a [Kaggle Master.](https://www.kaggle.com/asimple)
 - 👀 I’m interested in ML & DL & NLP.
 - 🛠️ I'm constantly learning and improving my skills.
